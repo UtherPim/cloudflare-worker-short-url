@@ -126,7 +126,7 @@ export default function Shorten() {
 
   return (
     <div className="mt-8 flex flex-col items-center justify-center min-h-screen bg-gradient-to-b from-gray-50 to-gray-100">
-      <ForkMeBadge />
+      {/* <ForkMeBadge /> */}
       {error && (
         <div className="my-4 p-2 rounded-lg bg-red-100 text-red-800">
           {error}

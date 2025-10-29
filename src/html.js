@@ -84,7 +84,7 @@ export const askPasswordPageHtml = `
           <button type="submit">Submit</button>
         </form>
         <footer>
-          Made by <a href="https://blog.li2niu.com" target="_blank" rel="noopener noreferrer">li2niu</a> with love in Wuhan, China
+          Made by x.z
         </footer>
         <script>
           function togglePasswordVisibility() {
